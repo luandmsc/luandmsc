@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Olá! Eu sou o/a [Seu Nome Completo] 👋
+# Olá! Eu sou o [Luan Damasceno] 👋
 
-### 💻 Desenvolvedor/a [Sua Área de Foco Principal]
+### 💻 Desenvolvedor [..]
 
-Eu sou um/a desenvolvedor/a apaixonado/a por **[Sua Principal Área de Interesse - Ex: criar interfaces de usuário intuitivas, resolver problemas complexos com código, infraestrutura em nuvem]**. Atualmente, estou focado em trabalhar com **[Tecnologia/Framework Atual Principal - Ex: React e TypeScript]**.
+Eu sou um desenvolvedor apaixonado por **[]**.
 
 ---
 
