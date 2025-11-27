@@ -1,6 +1,6 @@
-# Olá! Eu sou o [Luan Damasceno] 👋
+# 🧑‍💻Luan Damasceno
 
-### 💻 Desenvolvedor [..]
+**`Desenvolvedor`**
 
 Eu sou um desenvolvedor apaixonado por **[]**.
 
