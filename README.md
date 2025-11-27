@@ -2,16 +2,13 @@
 
 **`Desenvolvedor`**
 
-Eu sou um desenvolvedor apaixonado por **[]**.
-
 ---
 
 ### 🚀 O que estou fazendo agora
 
-* 🌱 **Aprendendo** e aprofundando meus conhecimentos em **[..]**.
-* 💡 **Buscando** colaborar em projetos de código aberto relacionados a **[..]**.
+* 🌱 **Aprendendo** e aprofundando meus conhecimentos em **[PHP, Python, MySql.]**.
 
-### 🛠️ Minhas Principais Habilidades
+### 🤖 Linguagens e Tecnologias
 
 
 <div align="left">
