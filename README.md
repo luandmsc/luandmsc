@@ -6,7 +6,7 @@
 
 ### 🚀 O que estou fazendo agora
 
-* 🌱 **Aprendendo** e aprofundando meus conhecimentos em **[PHP, Python, MySql.]**.
+* 🌱 **Aprendendo** e aprofundando meus conhecimentos em **[PHP, Python, MySql, Java, C..]**.
 
 ### 🤖 Linguagens e Tecnologias
 
